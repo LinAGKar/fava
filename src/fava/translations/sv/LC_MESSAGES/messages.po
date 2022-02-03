@@ -163,7 +163,7 @@ msgstr "Fil"
 
 #: frontend/src/import/Extract.svelte:99
 msgid "Line"
-msgstr "Linje"
+msgstr "Rad"
 
 #: fava/templates/errors.html:7
 msgid "Error"
@@ -199,11 +199,11 @@ msgstr "Valuta"
 
 #: fava/templates/holdings.html:45
 msgid "Cost currency"
-msgstr "Valutakostnad"
+msgstr "Kostnadsvaluta"
 
 #: fava/templates/holdings.html:46
 msgid "Holdings by"
-msgstr "Innehav av"
+msgstr "Innehav per"
 
 #: fava/templates/income_statement.html:3
 #: fava/templates/income_statement.html:18
@@ -244,11 +244,11 @@ msgstr "Uppdatera aktivitet"
 
 #: fava/templates/statistics.html:23
 msgid "Click to copy balance directives for accounts (except green ones) to the clipboard."
-msgstr "Klicka för att kopiera balansdirektkiven för konotn (förutom de gröna) till urklipp."
+msgstr "Klicka för att kopiera balansdirektkiven för konton (förutom de gröna) till urklipp."
 
 #: fava/templates/statistics.html:24
 msgid "Copy balance directives"
-msgstr "Kopiera balansdirektkiv"
+msgstr "Kopiera balansdirektiv"
 
 #: fava/templates/statistics.html:31
 msgid "Last Entry"
@@ -299,15 +299,15 @@ msgstr "Importera"
 
 #: fava/templates/_journal_table.html:4
 msgid "Budget entries"
-msgstr "Budget-inlägg"
+msgstr "Budgetinlägg"
 
 #: fava/templates/extract.html:9
 msgid "Toggle source"
-msgstr "Toggla källa"
+msgstr "Växla källa"
 
 #: fava/templates/extract.html:10
 msgid "Toggle ignore"
-msgstr "Toggla umschalten"
+msgstr "Växla ignorera"
 
 #: frontend/src/import/Extract.svelte:98
 msgid "Source"
@@ -331,7 +331,7 @@ msgstr "Dublett"
 
 #: fava/templates/import.html:14
 msgid "Importer"
-msgstr "Importerare"
+msgstr "Importör"
 
 #: frontend/src/import/FileList.svelte:54
 msgid "Extract"
@@ -339,7 +339,7 @@ msgstr "Extrahera"
 
 #: frontend/src/query/QueryEditor.svelte:14
 msgid "...enter a BQL query. 'help' to list available commands."
-msgstr "… eine BQL-Abfrage eingeben. »help«, um verfügbare Befehle aufzulisten."
+msgstr "… ange en BQL-fråga. 'hjälp' för att lista tillgängliga kommandon."
 
 #: fava/templates/_journal_table.html:80
 msgid "Metadata"
@@ -409,7 +409,7 @@ msgstr "Justera belopp"
 
 #: frontend/src/editor/EditorMenu.svelte:59
 msgid "Toggle Comment (selection)"
-msgstr "Toggla kommentar (för markering)"
+msgstr "Växla kommentar (för markering)"
 
 #: frontend/src/editor/EditorMenu.svelte:63
 msgid "Open all folds"
@@ -421,7 +421,7 @@ msgstr "Stäng alla sektioner"
 
 #: fava/templates/options.html:1
 msgid "Fava options"
-msgstr "Fava-inställningar"
+msgstr "Favainställningar"
 
 #: fava/templates/options.html:1
 msgid "help"
@@ -429,7 +429,7 @@ msgstr "hjälp"
 
 #: fava/templates/options.html:18
 msgid "Beancount options"
-msgstr "Beancount-inställningar"
+msgstr "Beancountinställningar"
 
 #: frontend/src/query/QueryEditor.svelte:28
 msgid "Submit"
@@ -491,7 +491,7 @@ msgstr "Dokument med etiketten #linked"
 
 #: fava/static/javascript/modals/DocumentUpload.svelte:54
 msgid "You need to set the \"documents\" Beancount option for file uploads."
-msgstr "Du behöver ställa in Beancount-inställningen \"documents\" för att aktivera filuppladdningar."
+msgstr "Du behöver ställa in Beancountinställningen \"documents\" för att aktivera filuppladdningar."
 
 #: frontend/src/stores/chart.ts:38
 msgid "At Cost"
@@ -507,11 +507,11 @@ msgstr "Enheter"
 
 #: frontend/src/charts/Chart.svelte:73
 msgid "Treemap"
-msgstr ""
+msgstr "Trädkarta"
 
 #: frontend/src/charts/Chart.svelte:81
 msgid "Sunburst"
-msgstr "Sunburst"
+msgstr "Soldiagram"
 
 #: frontend/src/entry-forms/AccountInput.svelte:13
 msgid "Should be one of the declared accounts"
@@ -535,11 +535,11 @@ msgstr "Transaktion"
 
 #: frontend/src/modals/AddEntry.svelte:42
 msgid "Add"
-msgstr "Lägg till:"
+msgstr "Lägg till"
 
 #: frontend/src/documents/Documents.svelte:60
 msgid "Move or rename document"
-msgstr "Flytta eller byta dokument"
+msgstr "Flytta eller döp om dokument"
 
 #: frontend/src/documents/Table.svelte:21
 msgid "Name"
@@ -584,4 +584,3 @@ msgstr "Radera denna fil?"
 #: frontend/src/import/Import.svelte:114
 msgid "No files were found for import."
 msgstr "Inga filer för import kunde hittas."
-
